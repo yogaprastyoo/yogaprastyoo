@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="border-radius:20px">
   <img height="350" style="border-radius:20px" src="https://i.pinimg.com/originals/69/6e/9d/696e9dfa1a3936bcbbe12ff28144939d.jpg"  />
 </div>
 
