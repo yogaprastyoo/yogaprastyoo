@@ -4,3 +4,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yogaprastyoo/yogaprastyoo/output/snake.svg" alt="Snake animation" />
+
+###
