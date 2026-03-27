@@ -1,28 +1,26 @@
-# 👋 Hi there, I'm Yoga Prastyo Bayu Laksono  
+# Yoga Prastyo Bayu Laksono
 
-**Full Stack Developer** | **Backend Enthusiast**  
-Focused on building functional and maintainable web applications.
+Full Stack Developer focused on backend engineering and building scalable, maintainable systems.
 
----
+## About Me
 
-## 🚀 About Me
-I’m a full stack developer who enjoys solving real-world problems through thoughtful design and clean implementation.  
-My focus is on writing code that’s reliable, scalable, and easy to maintain.  
-I continuously learn and refine how I build software to create better, more efficient solutions.
+I focus on developing reliable web applications with clean architecture and efficient system design.
+I enjoy solving real-world problems by turning complex requirements into structured and maintainable solutions.
 
----
+## GitHub Stats
 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=yogaprastyoo&theme=github_dark_dimmed&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogaprastyoo\&theme=github_dark_dimmed)
 
----
+## Contact
 
-## 🌐 Contact
-- Instagram: [@aau.aah](https://instagram.com/aau.aah)  
-- LinkedIn: [yogaprastyoo](https://linkedin.com/in/yogaprastyoo)  
-- GitHub: [yogaprastyoo](https://github.com/yogaprastyoo)  
-- Email: **mail@yogaprastyo.com**
+* LinkedIn: https://linkedin.com/in/yogaprastyoo
+* GitHub: https://github.com/yogaprastyoo
+* Email: [mail@yogaprastyo.com](mailto:mail@yogaprastyo.com)
+* Instagram: https://instagram.com/aau.aah
 
+## Notes
+
+Open to collaboration, backend-focused projects, and opportunities to build scalable systems.
 <br>
 
 <p align="center">
